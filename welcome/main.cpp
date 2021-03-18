@@ -23,6 +23,8 @@ int main(){
 //  eg:: return_type function(argument){}
 //  int main() vs void swap(int,int);
 
+// for void function it doesn't return anything
+
 // Return type tell us what the output looks like.
 // Argument tells what the input looks like.
 
@@ -61,3 +63,4 @@ int main(int argc, char* argv[]){
     }
     return 0;
 }
+
